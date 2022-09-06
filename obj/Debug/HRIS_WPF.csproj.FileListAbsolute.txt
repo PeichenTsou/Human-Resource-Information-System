@@ -1,0 +1,140 @@
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe.config
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.pdb
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.dll
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\bin\Debug\Google.Protobuf.dll
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.xml
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csprojAssemblyReference.cache
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\Views\Page1.g.cs
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UserControl1.g.cs
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\Views\Window1.g.cs
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\App.g.cs
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.cache
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.lref
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.baml
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\Views\Page1.baml
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UserControl1.baml
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\Views\Window1.baml
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.g.resources
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.Properties.Resources.resources
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.GenerateResource.cache
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.CopyComplete
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.exe
+C:\Users\Peiii\source\repos\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.pdb
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe.config
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.pdb
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.dll
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\Google.Protobuf.dll
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.xml
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csprojAssemblyReference.cache
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.g.cs
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\App.g.cs
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.cache
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.lref
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.baml
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.g.resources
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.Properties.Resources.resources
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.GenerateResource.cache
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.CoreCompileInputs.cache
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.CopyComplete
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.exe
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.pdb
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\Views\StaffView.g.cs
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UnitView.g.cs
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\Views\StaffView.baml
+C:\SVN folder\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UnitView.baml
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csprojResolveAssemblyReference.cache
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\Views\StaffView.g.cs
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UnitView.g.cs
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\App.g.cs
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.cache
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.lref
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.exe
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.pdb
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe.config
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.pdb
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.dll
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.xml
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.baml
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\Views\StaffView.baml
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UnitView.baml
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.g.resources
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.Properties.Resources.resources
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.GenerateResource.Cache
+C:\Users\yanruz\Pictures\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.CoreCompileInputs.cache
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe.config
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.pdb
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.dll
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.xml
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csprojResolveAssemblyReference.cache
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\Views\StaffView.g.cs
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UnitView.g.cs
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\App.g.cs
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.cache
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.lref
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.baml
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\Views\StaffView.baml
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UnitView.baml
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.g.resources
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.Properties.Resources.resources
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.GenerateResource.Cache
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.CoreCompileInputs.cache
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.exe
+C:\Users\yanruz\Desktop\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.pdb
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csprojAssemblyReference.cache
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.g.cs
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\Views\StaffView.g.cs
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UnitView.g.cs
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\App.g.cs
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.cache
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.lref
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.exe
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.pdb
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe.config
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.pdb
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.dll
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\bin\Debug\Google.Protobuf.dll
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.xml
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.baml
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\Views\StaffView.baml
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UnitView.baml
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.g.resources
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.Properties.Resources.resources
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.GenerateResource.cache
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.CoreCompileInputs.cache
+C:\SVN folder\k506h_a2_fr1300_9 - 複製(NEW TRY整個改)\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.CopyComplete
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe.config
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.exe
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\HRIS_WPF.pdb
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.dll
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\bin\Debug\MySql.Data.xml
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csprojResolveAssemblyReference.cache
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\Views\StaffView.g.cs
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UnitView.g.cs
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\App.g.cs
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.cache
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF_MarkupCompile.lref
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\MainWindow.baml
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\Views\StaffView.baml
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\Views\UnitView.baml
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.g.resources
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.Properties.Resources.resources
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.GenerateResource.Cache
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.csproj.CoreCompileInputs.cache
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.exe
+C:\Users\pctsou\Pictures\k506h_a2_fr1300_9\HRIS_WPF\HRIS_WPF\obj\Debug\HRIS_WPF.pdb

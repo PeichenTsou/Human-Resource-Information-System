@@ -1,0 +1,98 @@
+﻿<UserControl x:Class="HRIS_WPF.Views.UnitView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HRIS_WPF.Views"
+             xmlns:controllers="clr-namespace:HRIS_WPF.Controllers"
+             xmlns:entities ="clr-namespace:HRIS_WPF.Entites"
+             xmlns:system="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d">
+
+    <UserControl.Resources>
+        <!--Create new unitViewController-->
+        <controllers:UnitViewController x:Key="unitViewController"/>
+        <!--Name: unitList - data from unitViewController.getFilteredUnitsList() method with MethodParameters-->
+        <ObjectDataProvider x:Key="unitList"        
+                 ObjectInstance="{StaticResource unitViewController}"
+                 MethodName="getFilteredUnitsList">
+            <!--This is to give the parameters to the method-->
+            <ObjectDataProvider.MethodParameters>
+                <x:Static Member="system:String.Empty" />
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+
+        <!--set the template of UnitList (left side)-->
+        <DataTemplate  x:Key="unitTemplate" DataType="{x:Type entities:Unit}" >
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Path=unitCode}" />
+                <TextBlock Text=" " />
+                <TextBlock Text="{Binding Path=unitTitle}" />
+            </StackPanel>
+        </DataTemplate>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition Width="5*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Content="Unit List" Margin="5, 7" Grid.Column="0" Grid.Row="0" FontWeight="Bold" FontSize="14"/>
+        <Label Content="Unit Detials" Margin="5, 7" Grid.Column="1" Grid.Row="0" FontWeight="Bold" FontSize="14"/>
+        <Label Name="UnitTitleOfUnitDetail" Margin="90, 7, 5, 7" Grid.Column="1" Grid.Row="0" FontSize="14"/>
+        
+        <!--Filter by UnitCode or UnitTitle-->
+        <Label Content="Search Unit :"  Margin="5, 7" Grid.Column="0" Grid.Row="1"/>
+        <TextBox Name="seachText" HorizontalAlignment="Left" Width="97" Margin="90, 11, 0 ,9" Grid.Column="0" Grid.Row="1" TextChanged="seachText_TextChanged">
+            <!--Binding the MethodParameters of UnitListTest with seachText-->
+            <Binding Source="{StaticResource unitList}"
+                 Path="MethodParameters[0]"
+                 BindsDirectlyToSource="true"
+                 UpdateSourceTrigger="PropertyChanged" />
+        </TextBox>
+
+        <!--To filter the Unit Details by Campus-->
+        <Label Content="Filter By Campus:" HorizontalAlignment="Left"  Width="126" Grid.Column="1" Grid.Row="1" Margin="5, 7" />
+        <ComboBox x:Name="filterCampus" HorizontalAlignment="Left" Width="97" Grid.Column="1" Grid.Row="1" Margin="115, 8, 0 ,8"
+                               Height="22" SelectedIndex="0" SelectionChanged="filterCampus_SelectionChanged">
+            <ComboBoxItem>All Campus</ComboBoxItem>
+            <ComboBoxItem>Hobart</ComboBoxItem>
+            <ComboBoxItem>Launceston</ComboBoxItem>
+        </ComboBox>
+
+        <ListView Name="UnitListView"  Grid.Column="0" Grid.Row="2" Margin="3"
+                    ItemsSource ="{Binding Source={StaticResource unitList}}"
+                    ItemTemplate="{StaticResource unitTemplate}" SelectionChanged="UnitListView_SelectionChanged"/>
+
+        <ListView x:Name="UnitDetailList" Grid.Column="1" Grid.Row="2" Margin="3">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Day" DisplayMemberBinding="{Binding weekDay }"/>
+                    <GridViewColumn Header="Time" DisplayMemberBinding="{Binding timePeriod}"/>
+                    <GridViewColumn Header="Type" DisplayMemberBinding="{Binding ClassType}"/>
+                    <GridViewColumn Header="Room" DisplayMemberBinding="{Binding roomLocation }"/>
+                    <GridViewColumn Header="Campus" DisplayMemberBinding="{Binding campus }"/>
+                    <!--<GridViewColumn Header="Staff Name" DisplayMemberBinding="{Binding staffName}"/>-->
+                    <GridViewColumn Header="Staff Name" >
+                        <!--To make StaffName can connect to StaffView-->
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock  Name="urlToContent" MinWidth="100" Width="Auto">
+                                    <Hyperlink NavigateUri="{Binding Path=staffName}" Name="hlkURL"   RequestNavigate="hlkURL_RequestNavigate">
+                                        <TextBlock Text="{Binding Path=staffName}"/>  
+                                    </Hyperlink>
+                                </TextBlock>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</UserControl>
